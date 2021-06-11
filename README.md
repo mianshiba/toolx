@@ -6,6 +6,8 @@ https://emojixd.com/group/food-drink 提供各种emoji
 
 https://github.com/uvipen/Lego-generator  制作乐高风格
 
+https://javier.xyz/pintr/   一个把图片转为素描的工具，本github的图像就是用这个做的。
+
 ## 开源类
 https://github.com/djyde/cusdis 一个开源的博客评论系统
 
