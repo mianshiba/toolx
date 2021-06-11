@@ -5,6 +5,8 @@
 
 https://www.narakeet.com/ slide/ppt生成视频
 
+https://scenery.video/hello/ 视频协作
+
 ## 图像类
 https://emojixd.com/group/food-drink 提供各种emoji
 
