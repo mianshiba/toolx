@@ -7,6 +7,8 @@ https://www.narakeet.com/ slide/ppt生成视频
 
 https://scenery.video/hello/ 视频协作
 
+https://www.acfun.cn/face-catcher a站面捕助手
+
 ## 图像类
 https://emojixd.com/group/food-drink 提供各种emoji
 
