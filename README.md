@@ -1,6 +1,10 @@
 # toolx
 常用互联网工具和产品
 
+## 视频类
+
+https://www.narakeet.com/ slide/ppt生成视频
+
 ## 图像类
 https://emojixd.com/group/food-drink 提供各种emoji
 
