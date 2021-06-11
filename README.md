@@ -11,6 +11,8 @@ https://www.acfun.cn/face-catcher a站面捕助手
 
 https://store.steampowered.com/app/1368950/VTuber_Maker/ 虚拟主播
 
+https://avatarify.ai/  蚂蚁嘿呀
+
 ## 图像类
 https://emojixd.com/group/food-drink 提供各种emoji
 
