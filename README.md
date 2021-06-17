@@ -24,6 +24,8 @@ https://javier.xyz/pintr/   一个把图片转为素描的工具，本github的�
 
 boringavatars.com 制作头像工具
 
+artbreeder.com 人工智能造物器
+
 ## 开源类
 https://github.com/djyde/cusdis 一个开源的博客评论系统
 
