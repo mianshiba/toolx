@@ -18,6 +18,8 @@ https://avatarify.ai/  蚂蚁嘿呀
 ## 图像类
 https://emojixd.com/group/food-drink 提供各种emoji
 
+https://github.com/zhaoolee/ChineseBQB  斗图
+
 https://github.com/uvipen/Lego-generator  制作乐高风格
 
 https://javier.xyz/pintr/   一个把图片转为素描的工具，本github的图像就是用这个做的。
