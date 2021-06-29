@@ -1,6 +1,10 @@
 # toolx
 常用互联网工具和产品
 
+一个很全的工具导航站:
+
+https://rework.tools/marketing/
+
 ## 视频类
 
 https://www.narakeet.com/ slide/ppt生成视频
