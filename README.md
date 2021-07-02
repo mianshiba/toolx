@@ -47,6 +47,8 @@ https://app.blotato.com/demo?continueFlag=2ce3c2d007ad280728628d79772a94d6   文
 
 https://github.com/yihong0618/GitHubPoster  Make everything a GitHub svg poster and skyline!
 
+https://ojoy.zaps.dev/ 图片放大而不失真
+
 
 ## 工作付费
 https://lanhuapp.com/  产品原型管理工具
